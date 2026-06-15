@@ -14,9 +14,9 @@ const projects = [
     github: 'https://github.com/novall1126/BudgetPro.git',
   },
   {
-    title: 'inventoryManager',
+    title: 'InventoryManager',
     description: 'Website Manajemen Inventaris.',
-    image: '/foto/project-inventorymanager.png',
+    image: '/foto/project-inventory.png',
     tags: ['Platform Inventaris', 'Manajemen'],
     url: 'https://inventory-app-production-27e3.up.railway.app',
     github: 'https://github.com/novall1126/Inventory-app.git',
